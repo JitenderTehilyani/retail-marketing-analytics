@@ -1,7 +1,3 @@
-#
-#
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -209,7 +205,6 @@
 </body>
 </html>
 
-#
 # Retail Marketing & Customer Intelligence Analytics Platform
 
 An end-to-end data analytics and machine learning project focused on transaction optimization and customer segmentation using a transactional retail dataset.
